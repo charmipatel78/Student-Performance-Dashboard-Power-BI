@@ -43,7 +43,7 @@ README.md
 
 ### Main Dashboard
 
-![Main Dashboard](Dashboard%20Image/Main-Dashboard.png)
+![Main Dashboard](Dashboard%20Image/Main-Dashboard%20.png)
 
 ### Student Detail Page
 

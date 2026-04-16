@@ -43,11 +43,11 @@ README.md
 
 ### Main Dashboard
 
-![Main Dashboard](Dashboard Image/Main-Dashboard.png)
+![Main Dashboard](Dashboard%20Image/Main-Dashboard.png)
 
 ### Student Detail Page
 
-![Student Detail](Dashboard Image/Student-Detail-Page.png)
+![Student Detail](Dashboard%20Image/Student-Detail-Page.png)
 
 ---
 
